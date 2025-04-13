@@ -178,7 +178,7 @@ Transform:
   m_GameObject: {fileID: 50859184}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0.68097883, w: 0.7323031}
-  m_LocalPosition: {x: -0.42351136, y: -1.6555438, z: 0}
+  m_LocalPosition: {x: -0.4235114, y: -1.655544, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -432,7 +432,7 @@ Transform:
   m_GameObject: {fileID: 738936824}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: -0.6552019, w: 0.7554538}
-  m_LocalPosition: {x: 0.05133484, y: -1.9635522, z: 0}
+  m_LocalPosition: {x: 0.05133484, y: -1.963552, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -704,6 +704,7 @@ GameObject:
   - component: {fileID: 1520590441}
   - component: {fileID: 1520590444}
   - component: {fileID: 1520590443}
+  - component: {fileID: 1520590445}
   m_Layer: 0
   m_Name: "\u767D\u4E0A_\u524D_\u5207\u308A\u629C\u304D"
   m_TagString: Untagged
@@ -838,6 +839,20 @@ MonoBehaviour:
     m_Extent: {x: 2.7424097, y: 5.046135, z: 0.00000047683716}
   m_AlwaysUpdate: 1
   m_AutoRebind: 0
+--- !u!114 &1520590445
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1520590439}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5d47b4197a0ef14bbe91891b56d763f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _anim: {fileID: 1520590443}
+  angleSpeed: 3
 --- !u!1 &1719147813
 GameObject:
   m_ObjectHideFlags: 0
