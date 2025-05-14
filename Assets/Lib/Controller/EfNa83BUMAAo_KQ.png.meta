@@ -1,0 +1,1434 @@
+fileFormatVersion: 2
+guid: d7341ee1cd327084b9f3cc5afe06ca53
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4af48e4d6d0c9f4f95a32fe9cb383c8
+      internalID: -1711921147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3565bd23853dc294e952d42024efc8ef
+      internalID: -2112095525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086920b08f86a0147b173b28d9039f6a
+      internalID: 851819262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7eb8d3fa110aff4d9d7522ec8a48e4a
+      internalID: 1049427857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6352de9fa4461429c1e62b3fc8ab0d
+      internalID: -1474684133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75a3a660771ca240a70feb2a76c34fa
+      internalID: -49361205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_6
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11502f3f1d324b8499eddb95c9cd6af1
+      internalID: -1081741859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_7
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cfbde4ea96ea94bb01369417ab9aa0
+      internalID: -606718718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_8
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f3a7ce175a7cf4b82e449f0409e474
+      internalID: -643748670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_9
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfb57703a966044ab2daa2c7192e523
+      internalID: 889696650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae9b0f6ee0a8854db4a0bb96b9b339d
+      internalID: 199020097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3183d1707bbb44a91e91e0d65487bd
+      internalID: 345881222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69892f44ed9f71b46912f5d5fa5c61be
+      internalID: 1412187505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ad4adbbf9c7d848b9dd9f9a74d5b6b
+      internalID: 385507125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35e080bb86c0a344a9ca5f20c0eb1ff
+      internalID: -468359863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aa0578e78353945a9738412d4bdb9d
+      internalID: 360659514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_16
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17653dcd12fb9a84aa6eeab793fe9025
+      internalID: -40925897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_17
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4480c7f0426349043bf0b306c200e6e4
+      internalID: -1188211477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_18
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07edd0518d6a5541857da1fbc1b3756
+      internalID: 86773029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_19
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166bedf7ee54ca1448fdb0636c7070da
+      internalID: -915374079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1a82065821bcf47834a838465a2f1e
+      internalID: -1369992129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8961e67b202614c41bc951b394d8d169
+      internalID: 1830463534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c50ac423ef41b14baae5e7bb995d582
+      internalID: 192590113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d9a5e3a568c234bb4866aa1db8374c
+      internalID: 285579889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b51d732f787f54dba32c3fb659ca23
+      internalID: 1886027832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_25
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a797e8b172cae3646a109cc129f93ad4
+      internalID: -810082343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_26
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee072b2454c76741a23e3bacc2481d1
+      internalID: 1653990087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_27
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0022ed7429c18a749a412c3881a48e3b
+      internalID: 870901887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_28
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0641dfe27734454439e54f47790bacd3
+      internalID: 514341071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_29
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b47d18bbaa98eb4b92be36a141e6e06
+      internalID: 2122760703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_30
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8264e64a4edf649a54d1059a03127d
+      internalID: 1319990795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3844f936dea194d92b78d350f347c7
+      internalID: 1974044445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_32
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2776e5168ad978348b66ecad649989a3
+      internalID: 1242244124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_33
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cf9bc8cc7d2114db384b05efb48c21
+      internalID: -1629630815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_34
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba71eb9c4c76a7d4b908a735f47e8071
+      internalID: 2056857131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_35
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4017f8606dc616f45a21c6b79f6c10d4
+      internalID: -1832200662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_36
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751cea2ff61ec3640bdf1d089ed91c21
+      internalID: 50768093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_37
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5291cfab1eee98469ab0a78956faf9a
+      internalID: -701552539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_38
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b1d551181fddf4fbbdd1bc523b5c28
+      internalID: -2077238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_39
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d76aca9757beb408b10c2f000f9027
+      internalID: 450900560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427cdce6d376e4a40adae3518944fe16
+      internalID: 1630470761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3050cd3cd510b4c4bbb07d9472dc2727
+      internalID: 1572115666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e706c013f456d4f87b778d12c56cd9
+      internalID: -691850990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_43
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b802cd303634cc4f8116f26adc4295e
+      internalID: -1103480768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_44
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fb768cf6854b34ab692aa68bae7d44
+      internalID: -1688047384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_45
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfb33924f091624ca9c7e15551f33bc
+      internalID: 899102534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_46
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301688a2875f2f74faf41595f66d91bd
+      internalID: 1333775395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_47
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c6022cea3bc9442baf1f36b33f6972
+      internalID: 186294529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_48
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66fe3c5e4ed5e94b8a8fd09a5c39723
+      internalID: -1827760118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_49
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6860cd1e5477ea44f9b660820ed1bc00
+      internalID: 2002083632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6746d75afa882e46b8b0572f7f17e54
+      internalID: 1366649618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_51
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4bbbecb9c4da94aa63edda67c2ee51
+      internalID: 504775076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_52
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f69da49211ec5429007e06ac9928f6
+      internalID: 552529536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_53
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c7216ec56872540a172c67f4ff386e
+      internalID: 1639648329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_54
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9028f52f8cc7b48a4a67d3f6efc18e
+      internalID: -715075117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_55
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7852f1a0a370a9f40a9871eabf8f89dc
+      internalID: -1115370734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_56
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a38ed13f5474714badcf8e5d6239f62
+      internalID: 664086200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_57
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49022ed320b2f84499300a9271c7777c
+      internalID: 1887799548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_58
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91dd12838b0b494389ad67593fb5291
+      internalID: -1629641276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfNa83BUMAAo_KQ_59
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634dc0f0467dc854d80bbb71a50ff665
+      internalID: -392904503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EfNa83BUMAAo_KQ_0: -1711921147
+      EfNa83BUMAAo_KQ_1: -2112095525
+      EfNa83BUMAAo_KQ_10: 199020097
+      EfNa83BUMAAo_KQ_11: 345881222
+      EfNa83BUMAAo_KQ_12: 1412187505
+      EfNa83BUMAAo_KQ_13: 385507125
+      EfNa83BUMAAo_KQ_14: -468359863
+      EfNa83BUMAAo_KQ_15: 360659514
+      EfNa83BUMAAo_KQ_16: -40925897
+      EfNa83BUMAAo_KQ_17: -1188211477
+      EfNa83BUMAAo_KQ_18: 86773029
+      EfNa83BUMAAo_KQ_19: -915374079
+      EfNa83BUMAAo_KQ_2: 851819262
+      EfNa83BUMAAo_KQ_20: -1369992129
+      EfNa83BUMAAo_KQ_21: 1830463534
+      EfNa83BUMAAo_KQ_22: 192590113
+      EfNa83BUMAAo_KQ_23: 285579889
+      EfNa83BUMAAo_KQ_24: 1886027832
+      EfNa83BUMAAo_KQ_25: -810082343
+      EfNa83BUMAAo_KQ_26: 1653990087
+      EfNa83BUMAAo_KQ_27: 870901887
+      EfNa83BUMAAo_KQ_28: 514341071
+      EfNa83BUMAAo_KQ_29: 2122760703
+      EfNa83BUMAAo_KQ_3: 1049427857
+      EfNa83BUMAAo_KQ_30: 1319990795
+      EfNa83BUMAAo_KQ_31: 1974044445
+      EfNa83BUMAAo_KQ_32: 1242244124
+      EfNa83BUMAAo_KQ_33: -1629630815
+      EfNa83BUMAAo_KQ_34: 2056857131
+      EfNa83BUMAAo_KQ_35: -1832200662
+      EfNa83BUMAAo_KQ_36: 50768093
+      EfNa83BUMAAo_KQ_37: -701552539
+      EfNa83BUMAAo_KQ_38: -2077238
+      EfNa83BUMAAo_KQ_39: 450900560
+      EfNa83BUMAAo_KQ_4: -1474684133
+      EfNa83BUMAAo_KQ_40: 1630470761
+      EfNa83BUMAAo_KQ_41: 1572115666
+      EfNa83BUMAAo_KQ_42: -691850990
+      EfNa83BUMAAo_KQ_43: -1103480768
+      EfNa83BUMAAo_KQ_44: -1688047384
+      EfNa83BUMAAo_KQ_45: 899102534
+      EfNa83BUMAAo_KQ_46: 1333775395
+      EfNa83BUMAAo_KQ_47: 186294529
+      EfNa83BUMAAo_KQ_48: -1827760118
+      EfNa83BUMAAo_KQ_49: 2002083632
+      EfNa83BUMAAo_KQ_5: -49361205
+      EfNa83BUMAAo_KQ_50: 1366649618
+      EfNa83BUMAAo_KQ_51: 504775076
+      EfNa83BUMAAo_KQ_52: 552529536
+      EfNa83BUMAAo_KQ_53: 1639648329
+      EfNa83BUMAAo_KQ_54: -715075117
+      EfNa83BUMAAo_KQ_55: -1115370734
+      EfNa83BUMAAo_KQ_56: 664086200
+      EfNa83BUMAAo_KQ_57: 1887799548
+      EfNa83BUMAAo_KQ_58: -1629641276
+      EfNa83BUMAAo_KQ_59: -392904503
+      EfNa83BUMAAo_KQ_6: -1081741859
+      EfNa83BUMAAo_KQ_7: -606718718
+      EfNa83BUMAAo_KQ_8: -643748670
+      EfNa83BUMAAo_KQ_9: 889696650
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

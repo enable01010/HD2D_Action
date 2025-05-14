@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; background-color: rgb(53, 53, 53); height: auto; align-items: stretch; justify-content: space-between; flex-direction: row;">
+        <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="action" style="position: relative; left: 2px; top: 0; right: auto; bottom: 2px; width: 75%;" />
+        <ui:Button text="script" parse-escape-sequences="true" display-tooltip-when-elided="true" name="script" style="position: relative; top: 0; right: -1px; left: auto; width: 20%;" />
+    </ui:VisualElement>
+</ui:UXML>

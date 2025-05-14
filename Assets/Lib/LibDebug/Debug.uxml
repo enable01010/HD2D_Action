@@ -1,0 +1,19 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <ui:VisualElement name="MenuGroup" style="flex-grow: 1; height: 66px; background-color: rgb(26, 26, 26); position: absolute; top: 2px; left: 2px; right: 2px;">
+        <ui:Label tabindex="-1" text="Menu" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Menu" style="opacity: 1; height: 20px; font-size: 10px; position: absolute; top: -2px; right: 0; left: 0; background-color: rgb(94, 94, 94);" />
+        <ui:Button text="Clear" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Clear" style="height: 37px; width: 118px; position: absolute; top: 21px; left: -1px;" />
+        <ui:Button text="Log" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Log" style="height: 37px; width: 118px; -unity-text-align: middle-center; position: absolute; top: 21px; left: 120px;" />
+        <ui:Button text="Ray" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Ray" style="height: 37px; width: 118px; -unity-text-align: middle-center; position: absolute; top: 21px; left: 241px;" />
+        <ui:Button text="Method" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Method" style="height: 37px; width: 118px; -unity-text-align: middle-center; position: absolute; top: 21px; left: 362px;" />
+    </ui:VisualElement>
+    <ui:VisualElement name="UserGroup" style="flex-grow: 1; position: absolute; height: 53px; background-color: rgb(26, 26, 26); top: 70px; left: 2px; right: 2px;">
+        <ui:Label tabindex="-1" text="User&#10;" parse-escape-sequences="true" display-tooltip-when-elided="true" name="user" style="opacity: 1; height: 20px; font-size: 10px; position: absolute; top: 0; right: 0; left: 0; background-color: rgb(94, 94, 94);" />
+        <ui:Button text="All" parse-escape-sequences="true" display-tooltip-when-elided="true" name="All" style="position: absolute; top: 25px; left: -2px; height: 22px;" />
+        <ui:Button text="ottotto" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Tani" style="position: absolute; top: 25px; left: 43px; height: 22px;" />
+        <ui:Button text="  N2  " parse-escape-sequences="true" display-tooltip-when-elided="true" name="Mathu" style="position: absolute; top: 25px; left: 118px; height: 22px;" />
+    </ui:VisualElement>
+    <ui:VisualElement name="ContentGroup" style="flex-grow: 1; background-color: rgb(26, 26, 26); position: absolute; top: 126px; left: 2px; right: 2px; bottom: 4px;">
+        <ui:Label tabindex="-1" text="SelectedGroup" parse-escape-sequences="true" display-tooltip-when-elided="true" name="SelectedGroup" style="opacity: 1; height: 20px; font-size: 10px; position: absolute; top: 6px; right: 0; left: 1px; background-color: rgb(94, 94, 94);" />
+        <ui:ScrollView name="LogArea" style="position: absolute; right: 5px; left: 4px; top: 38px; bottom: 5px; background-color: rgb(94, 94, 94);" />
+    </ui:VisualElement>
+</ui:UXML>
