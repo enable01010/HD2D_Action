@@ -1,0 +1,15 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:ScrollView name="ScrollView" style="height: auto; left: 0; top: 0; right: 0; bottom: 0; width: auto; transform-origin: center; scale: 1 1; border-top-color: rgb(255, 255, 255); border-top-width: 5px; border-right-width: 5px; border-bottom-width: 5px; border-left-width: 5px; border-left-color: rgb(255, 255, 255); border-right-color: rgb(255, 255, 255); border-bottom-color: rgb(255, 255, 255);">
+        <ui:VisualElement name="Background" style="flex-grow: 1; background-color: rgb(64, 64, 64); -unity-background-scale-mode: stretch-to-fill;">
+            <ui:VisualElement name="MessageGroup" style="flex-grow: 1; flex-direction: row; -unity-text-align: upper-left; align-items: flex-start; align-self: auto;">
+                <ui:Label tabindex="-1" text="Message" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Message" style="align-items: auto; width: 75%; white-space: normal;" />
+                <ui:Label tabindex="-1" text="count" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Count" style="align-items: auto; width: 20%; -unity-text-align: upper-right; background-color: rgb(88, 88, 88);" />
+            </ui:VisualElement>
+            <ui:VisualElement name="Buttons" style="flex-grow: 1; align-items: stretch; justify-content: space-between; align-self: flex-start; flex-direction: row;">
+                <ui:Button text="old" parse-escape-sequences="true" display-tooltip-when-elided="true" name="old" style="width: 151px; height: 14px;" />
+                <ui:Button text="script" parse-escape-sequences="true" display-tooltip-when-elided="true" name="script" style="width: 151px; height: 14px; position: relative; top: 0; left: auto;" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:ScrollView name="newItems" style="max-height: 300px;" />
+    </ui:ScrollView>
+</ui:UXML>
